@@ -1,1 +1,1 @@
-﻿Text changed in conflict_test branch
+﻿Текст з гілки conflict_test
