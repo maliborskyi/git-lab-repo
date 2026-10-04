@@ -1,1 +1,1 @@
-﻿Text changed in main branch
+﻿Текст з гілки main
